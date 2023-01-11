@@ -1,4 +1,4 @@
-name: "Synopsys IO"
+name: DevSecOps
 
 on:
   workflow_dispatch
