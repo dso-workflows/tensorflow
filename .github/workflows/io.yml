@@ -7,7 +7,7 @@ jobs:
   devsecops:
     name: DevSecOps
     uses: io-onboard/synopsys-workflows/.github/workflows/devsecops.yml@main
-    with:
-      project-name: 'MyProject'
-      branch-name: 'MyBranch'
+#     with:
+#       project-name: 'MyProject'
+#       branch-name: 'MyBranch'
     secrets: inherit
