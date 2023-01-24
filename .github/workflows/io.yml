@@ -6,7 +6,7 @@ on:
 jobs:
   devsecops:
     name: DevSecOps
-    uses: io-onboard/synopsys-workflows/.github/workflows/devsecops.yml@main
+    uses: io-workflows/io-workflows/.github/workflows/devsecops.yml@main
     with:
       project-language: 'C++'
 #       project-name: 'MyProject'
